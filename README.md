@@ -185,5 +185,5 @@ Please see the comprehensive data visualization. (i.e. run the project code)
 
 Here is a screenshot:
 
-![Interface Screenshot](https://bitbucket.org/ArcticLight/cs380f2016-clivem/raw/master/finalproject/screenshot.png)
+![Interface Screenshot](screenshot.png)
 
