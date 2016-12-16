@@ -1,0 +1,765 @@
+0,Alabama,1956,11
+1,Alabama,1960,11
+2,Alabama,1964,10
+3,Alabama,1968,10
+4,Alabama,1972,9
+5,Alabama,1976,9
+6,Alabama,1980,9
+7,Alabama,1984,9
+8,Alabama,1988,9
+9,Alabama,1992,9
+10,Alabama,1996,9
+11,Alabama,2000,9
+12,Alabama,2004,9
+13,Alabama,2008,9
+14,Alabama,2012,9
+15,Alaska,1956,0
+16,Alaska,1960,3
+17,Alaska,1964,3
+18,Alaska,1968,3
+19,Alaska,1972,3
+20,Alaska,1976,3
+21,Alaska,1980,3
+22,Alaska,1984,3
+23,Alaska,1988,3
+24,Alaska,1992,3
+25,Alaska,1996,3
+26,Alaska,2000,3
+27,Alaska,2004,3
+28,Alaska,2008,3
+29,Alaska,2012,3
+30,Arizona,1956,4
+31,Arizona,1960,4
+32,Arizona,1964,5
+33,Arizona,1968,5
+34,Arizona,1972,6
+35,Arizona,1976,6
+36,Arizona,1980,6
+37,Arizona,1984,7
+38,Arizona,1988,7
+39,Arizona,1992,8
+40,Arizona,1996,8
+41,Arizona,2000,8
+42,Arizona,2004,10
+43,Arizona,2008,10
+44,Arizona,2012,11
+45,Arkansas,1956,8
+46,Arkansas,1960,8
+47,Arkansas,1964,6
+48,Arkansas,1968,6
+49,Arkansas,1972,6
+50,Arkansas,1976,6
+51,Arkansas,1980,6
+52,Arkansas,1984,6
+53,Arkansas,1988,6
+54,Arkansas,1992,6
+55,Arkansas,1996,6
+56,Arkansas,2000,6
+57,Arkansas,2004,6
+58,Arkansas,2008,6
+59,Arkansas,2012,6
+60,California,1956,32
+61,California,1960,32
+62,California,1964,40
+63,California,1968,40
+64,California,1972,45
+65,California,1976,45
+66,California,1980,45
+67,California,1984,47
+68,California,1988,47
+69,California,1992,54
+70,California,1996,54
+71,California,2000,54
+72,California,2004,55
+73,California,2008,55
+74,California,2012,55
+75,Colorado,1956,6
+76,Colorado,1960,6
+77,Colorado,1964,6
+78,Colorado,1968,6
+79,Colorado,1972,7
+80,Colorado,1976,7
+81,Colorado,1980,7
+82,Colorado,1984,8
+83,Colorado,1988,8
+84,Colorado,1992,8
+85,Colorado,1996,8
+86,Colorado,2000,8
+87,Colorado,2004,9
+88,Colorado,2008,9
+89,Colorado,2012,9
+90,Connecticut,1956,8
+91,Connecticut,1960,8
+92,Connecticut,1964,8
+93,Connecticut,1968,8
+94,Connecticut,1972,8
+95,Connecticut,1976,8
+96,Connecticut,1980,8
+97,Connecticut,1984,8
+98,Connecticut,1988,8
+99,Connecticut,1992,8
+100,Connecticut,1996,8
+101,Connecticut,2000,8
+102,Connecticut,2004,7
+103,Connecticut,2008,7
+104,Connecticut,2012,7
+105,Dist of Col,1956,0
+106,Dist of Col,1960,0
+107,Dist of Col,1964,3
+108,Dist of Col,1968,3
+109,Dist of Col,1972,3
+110,Dist of Col,1976,3
+111,Dist of Col,1980,3
+112,Dist of Col,1984,3
+113,Dist of Col,1988,3
+114,Dist of Col,1992,3
+115,Dist of Col,1996,3
+116,Dist of Col,2000,3
+117,Dist of Col,2004,3
+118,Dist of Col,2008,3
+119,Dist of Col,2012,3
+120,Delaware,1956,3
+121,Delaware,1960,3
+122,Delaware,1964,3
+123,Delaware,1968,3
+124,Delaware,1972,3
+125,Delaware,1976,3
+126,Delaware,1980,3
+127,Delaware,1984,3
+128,Delaware,1988,3
+129,Delaware,1992,3
+130,Delaware,1996,3
+131,Delaware,2000,3
+132,Delaware,2004,3
+133,Delaware,2008,3
+134,Delaware,2012,3
+135,Florida,1956,10
+136,Florida,1960,10
+137,Florida,1964,14
+138,Florida,1968,14
+139,Florida,1972,17
+140,Florida,1976,17
+141,Florida,1980,17
+142,Florida,1984,21
+143,Florida,1988,21
+144,Florida,1992,25
+145,Florida,1996,25
+146,Florida,2000,25
+147,Florida,2004,27
+148,Florida,2008,27
+149,Florida,2012,29
+150,Georgia,1956,12
+151,Georgia,1960,12
+152,Georgia,1964,12
+153,Georgia,1968,12
+154,Georgia,1972,12
+155,Georgia,1976,12
+156,Georgia,1980,12
+157,Georgia,1984,12
+158,Georgia,1988,12
+159,Georgia,1992,13
+160,Georgia,1996,13
+161,Georgia,2000,13
+162,Georgia,2004,15
+163,Georgia,2008,15
+164,Georgia,2012,16
+165,Hawaii,1956,0
+166,Hawaii,1960,3
+167,Hawaii,1964,4
+168,Hawaii,1968,4
+169,Hawaii,1972,4
+170,Hawaii,1976,4
+171,Hawaii,1980,4
+172,Hawaii,1984,4
+173,Hawaii,1988,4
+174,Hawaii,1992,4
+175,Hawaii,1996,4
+176,Hawaii,2000,4
+177,Hawaii,2004,4
+178,Hawaii,2008,4
+179,Hawaii,2012,4
+180,Idaho,1956,4
+181,Idaho,1960,4
+182,Idaho,1964,4
+183,Idaho,1968,4
+184,Idaho,1972,4
+185,Idaho,1976,4
+186,Idaho,1980,4
+187,Idaho,1984,4
+188,Idaho,1988,4
+189,Idaho,1992,4
+190,Idaho,1996,4
+191,Idaho,2000,4
+192,Idaho,2004,4
+193,Idaho,2008,4
+194,Idaho,2012,4
+195,Illinois,1956,27
+196,Illinois,1960,27
+197,Illinois,1964,26
+198,Illinois,1968,26
+199,Illinois,1972,26
+200,Illinois,1976,26
+201,Illinois,1980,26
+202,Illinois,1984,24
+203,Illinois,1988,24
+204,Illinois,1992,22
+205,Illinois,1996,22
+206,Illinois,2000,22
+207,Illinois,2004,21
+208,Illinois,2008,21
+209,Illinois,2012,20
+210,Indiana,1956,13
+211,Indiana,1960,13
+212,Indiana,1964,13
+213,Indiana,1968,13
+214,Indiana,1972,13
+215,Indiana,1976,13
+216,Indiana,1980,13
+217,Indiana,1984,12
+218,Indiana,1988,12
+219,Indiana,1992,12
+220,Indiana,1996,12
+221,Indiana,2000,12
+222,Indiana,2004,11
+223,Indiana,2008,11
+224,Indiana,2012,11
+225,Iowa,1956,10
+226,Iowa,1960,10
+227,Iowa,1964,9
+228,Iowa,1968,9
+229,Iowa,1972,8
+230,Iowa,1976,8
+231,Iowa,1980,8
+232,Iowa,1984,8
+233,Iowa,1988,8
+234,Iowa,1992,7
+235,Iowa,1996,7
+236,Iowa,2000,7
+237,Iowa,2004,7
+238,Iowa,2008,7
+239,Iowa,2012,6
+240,Kansas,1956,8
+241,Kansas,1960,8
+242,Kansas,1964,7
+243,Kansas,1968,7
+244,Kansas,1972,7
+245,Kansas,1976,7
+246,Kansas,1980,7
+247,Kansas,1984,7
+248,Kansas,1988,7
+249,Kansas,1992,6
+250,Kansas,1996,6
+251,Kansas,2000,6
+252,Kansas,2004,6
+253,Kansas,2008,6
+254,Kansas,2012,6
+255,Kentucky,1956,10
+256,Kentucky,1960,10
+257,Kentucky,1964,9
+258,Kentucky,1968,9
+259,Kentucky,1972,9
+260,Kentucky,1976,9
+261,Kentucky,1980,9
+262,Kentucky,1984,9
+263,Kentucky,1988,9
+264,Kentucky,1992,8
+265,Kentucky,1996,8
+266,Kentucky,2000,8
+267,Kentucky,2004,8
+268,Kentucky,2008,8
+269,Kentucky,2012,8
+270,Louisiana,1956,10
+271,Louisiana,1960,10
+272,Louisiana,1964,10
+273,Louisiana,1968,10
+274,Louisiana,1972,10
+275,Louisiana,1976,10
+276,Louisiana,1980,10
+277,Louisiana,1984,10
+278,Louisiana,1988,10
+279,Louisiana,1992,9
+280,Louisiana,1996,9
+281,Louisiana,2000,9
+282,Louisiana,2004,9
+283,Louisiana,2008,9
+284,Louisiana,2012,8
+285,Maine,1956,5
+286,Maine,1960,5
+287,Maine,1964,4
+288,Maine,1968,4
+289,Maine,1972,4
+290,Maine,1976,4
+291,Maine,1980,4
+292,Maine,1984,4
+293,Maine,1988,4
+294,Maine,1992,4
+295,Maine,1996,4
+296,Maine,2000,4
+297,Maine,2004,4
+298,Maine,2008,4
+299,Maine,2012,4
+300,Maryland,1956,9
+301,Maryland,1960,9
+302,Maryland,1964,10
+303,Maryland,1968,10
+304,Maryland,1972,10
+305,Maryland,1976,10
+306,Maryland,1980,10
+307,Maryland,1984,10
+308,Maryland,1988,10
+309,Maryland,1992,10
+310,Maryland,1996,10
+311,Maryland,2000,10
+312,Maryland,2004,10
+313,Maryland,2008,10
+314,Maryland,2012,10
+315,Massachusetts,1956,16
+316,Massachusetts,1960,16
+317,Massachusetts,1964,14
+318,Massachusetts,1968,14
+319,Massachusetts,1972,14
+320,Massachusetts,1976,14
+321,Massachusetts,1980,14
+322,Massachusetts,1984,13
+323,Massachusetts,1988,13
+324,Massachusetts,1992,12
+325,Massachusetts,1996,12
+326,Massachusetts,2000,12
+327,Massachusetts,2004,12
+328,Massachusetts,2008,12
+329,Massachusetts,2012,11
+330,Michigan,1956,20
+331,Michigan,1960,20
+332,Michigan,1964,21
+333,Michigan,1968,21
+334,Michigan,1972,21
+335,Michigan,1976,21
+336,Michigan,1980,21
+337,Michigan,1984,20
+338,Michigan,1988,20
+339,Michigan,1992,18
+340,Michigan,1996,18
+341,Michigan,2000,18
+342,Michigan,2004,17
+343,Michigan,2008,17
+344,Michigan,2012,16
+345,Minnesota,1956,11
+346,Minnesota,1960,11
+347,Minnesota,1964,10
+348,Minnesota,1968,10
+349,Minnesota,1972,10
+350,Minnesota,1976,10
+351,Minnesota,1980,10
+352,Minnesota,1984,10
+353,Minnesota,1988,10
+354,Minnesota,1992,10
+355,Minnesota,1996,10
+356,Minnesota,2000,10
+357,Minnesota,2004,10
+358,Minnesota,2008,10
+359,Minnesota,2012,10
+360,Mississippi,1956,8
+361,Mississippi,1960,8
+362,Mississippi,1964,7
+363,Mississippi,1968,7
+364,Mississippi,1972,7
+365,Mississippi,1976,7
+366,Mississippi,1980,7
+367,Mississippi,1984,7
+368,Mississippi,1988,7
+369,Mississippi,1992,7
+370,Mississippi,1996,7
+371,Mississippi,2000,7
+372,Mississippi,2004,6
+373,Mississippi,2008,6
+374,Mississippi,2012,6
+375,Missouri,1956,13
+376,Missouri,1960,13
+377,Missouri,1964,12
+378,Missouri,1968,12
+379,Missouri,1972,12
+380,Missouri,1976,12
+381,Missouri,1980,12
+382,Missouri,1984,11
+383,Missouri,1988,11
+384,Missouri,1992,11
+385,Missouri,1996,11
+386,Missouri,2000,11
+387,Missouri,2004,11
+388,Missouri,2008,11
+389,Missouri,2012,10
+390,Montana,1956,4
+391,Montana,1960,4
+392,Montana,1964,4
+393,Montana,1968,4
+394,Montana,1972,4
+395,Montana,1976,4
+396,Montana,1980,4
+397,Montana,1984,4
+398,Montana,1988,4
+399,Montana,1992,3
+400,Montana,1996,3
+401,Montana,2000,3
+402,Montana,2004,3
+403,Montana,2008,3
+404,Montana,2012,3
+405,Nebraska,1956,6
+406,Nebraska,1960,6
+407,Nebraska,1964,5
+408,Nebraska,1968,5
+409,Nebraska,1972,5
+410,Nebraska,1976,5
+411,Nebraska,1980,5
+412,Nebraska,1984,5
+413,Nebraska,1988,5
+414,Nebraska,1992,5
+415,Nebraska,1996,5
+416,Nebraska,2000,5
+417,Nebraska,2004,5
+418,Nebraska,2008,5
+419,Nebraska,2012,5
+420,Nevada,1956,3
+421,Nevada,1960,3
+422,Nevada,1964,3
+423,Nevada,1968,3
+424,Nevada,1972,3
+425,Nevada,1976,3
+426,Nevada,1980,3
+427,Nevada,1984,4
+428,Nevada,1988,4
+429,Nevada,1992,4
+430,Nevada,1996,4
+431,Nevada,2000,4
+432,Nevada,2004,5
+433,Nevada,2008,5
+434,Nevada,2012,6
+435,New Hampshire,1956,4
+436,New Hampshire,1960,4
+437,New Hampshire,1964,4
+438,New Hampshire,1968,4
+439,New Hampshire,1972,4
+440,New Hampshire,1976,4
+441,New Hampshire,1980,4
+442,New Hampshire,1984,4
+443,New Hampshire,1988,4
+444,New Hampshire,1992,4
+445,New Hampshire,1996,4
+446,New Hampshire,2000,4
+447,New Hampshire,2004,4
+448,New Hampshire,2008,4
+449,New Hampshire,2012,4
+450,New Jersey,1956,16
+451,New Jersey,1960,16
+452,New Jersey,1964,17
+453,New Jersey,1968,17
+454,New Jersey,1972,17
+455,New Jersey,1976,17
+456,New Jersey,1980,17
+457,New Jersey,1984,16
+458,New Jersey,1988,16
+459,New Jersey,1992,15
+460,New Jersey,1996,15
+461,New Jersey,2000,15
+462,New Jersey,2004,15
+463,New Jersey,2008,15
+464,New Jersey,2012,14
+465,New Mexico,1956,4
+466,New Mexico,1960,4
+467,New Mexico,1964,4
+468,New Mexico,1968,4
+469,New Mexico,1972,4
+470,New Mexico,1976,4
+471,New Mexico,1980,4
+472,New Mexico,1984,5
+473,New Mexico,1988,5
+474,New Mexico,1992,5
+475,New Mexico,1996,5
+476,New Mexico,2000,5
+477,New Mexico,2004,5
+478,New Mexico,2008,5
+479,New Mexico,2012,5
+480,New York,1956,45
+481,New York,1960,45
+482,New York,1964,43
+483,New York,1968,43
+484,New York,1972,41
+485,New York,1976,41
+486,New York,1980,41
+487,New York,1984,36
+488,New York,1988,36
+489,New York,1992,33
+490,New York,1996,33
+491,New York,2000,33
+492,New York,2004,31
+493,New York,2008,31
+494,New York,2012,29
+495,North Carolina,1956,14
+496,North Carolina,1960,14
+497,North Carolina,1964,13
+498,North Carolina,1968,13
+499,North Carolina,1972,13
+500,North Carolina,1976,13
+501,North Carolina,1980,13
+502,North Carolina,1984,13
+503,North Carolina,1988,13
+504,North Carolina,1992,14
+505,North Carolina,1996,14
+506,North Carolina,2000,14
+507,North Carolina,2004,15
+508,North Carolina,2008,15
+509,North Carolina,2012,15
+510,North Dakota,1956,4
+511,North Dakota,1960,4
+512,North Dakota,1964,4
+513,North Dakota,1968,4
+514,North Dakota,1972,3
+515,North Dakota,1976,3
+516,North Dakota,1980,3
+517,North Dakota,1984,3
+518,North Dakota,1988,3
+519,North Dakota,1992,3
+520,North Dakota,1996,3
+521,North Dakota,2000,3
+522,North Dakota,2004,3
+523,North Dakota,2008,3
+524,North Dakota,2012,3
+525,Ohio,1956,25
+526,Ohio,1960,25
+527,Ohio,1964,26
+528,Ohio,1968,26
+529,Ohio,1972,25
+530,Ohio,1976,25
+531,Ohio,1980,25
+532,Ohio,1984,23
+533,Ohio,1988,23
+534,Ohio,1992,21
+535,Ohio,1996,21
+536,Ohio,2000,21
+537,Ohio,2004,20
+538,Ohio,2008,20
+539,Ohio,2012,18
+540,Oklahoma,1956,8
+541,Oklahoma,1960,8
+542,Oklahoma,1964,8
+543,Oklahoma,1968,8
+544,Oklahoma,1972,8
+545,Oklahoma,1976,8
+546,Oklahoma,1980,8
+547,Oklahoma,1984,8
+548,Oklahoma,1988,8
+549,Oklahoma,1992,8
+550,Oklahoma,1996,8
+551,Oklahoma,2000,8
+552,Oklahoma,2004,7
+553,Oklahoma,2008,7
+554,Oklahoma,2012,7
+555,Oregon,1956,6
+556,Oregon,1960,6
+557,Oregon,1964,6
+558,Oregon,1968,6
+559,Oregon,1972,6
+560,Oregon,1976,6
+561,Oregon,1980,6
+562,Oregon,1984,7
+563,Oregon,1988,7
+564,Oregon,1992,7
+565,Oregon,1996,7
+566,Oregon,2000,7
+567,Oregon,2004,7
+568,Oregon,2008,7
+569,Oregon,2012,7
+570,Pennsylvania,1956,32
+571,Pennsylvania,1960,32
+572,Pennsylvania,1964,29
+573,Pennsylvania,1968,29
+574,Pennsylvania,1972,27
+575,Pennsylvania,1976,27
+576,Pennsylvania,1980,27
+577,Pennsylvania,1984,25
+578,Pennsylvania,1988,25
+579,Pennsylvania,1992,23
+580,Pennsylvania,1996,23
+581,Pennsylvania,2000,23
+582,Pennsylvania,2004,21
+583,Pennsylvania,2008,21
+584,Pennsylvania,2012,20
+585,Rhode Island,1956,4
+586,Rhode Island,1960,4
+587,Rhode Island,1964,4
+588,Rhode Island,1968,4
+589,Rhode Island,1972,4
+590,Rhode Island,1976,4
+591,Rhode Island,1980,4
+592,Rhode Island,1984,4
+593,Rhode Island,1988,4
+594,Rhode Island,1992,4
+595,Rhode Island,1996,4
+596,Rhode Island,2000,4
+597,Rhode Island,2004,4
+598,Rhode Island,2008,4
+599,Rhode Island,2012,4
+600,South Carolina,1956,8
+601,South Carolina,1960,8
+602,South Carolina,1964,8
+603,South Carolina,1968,8
+604,South Carolina,1972,8
+605,South Carolina,1976,8
+606,South Carolina,1980,8
+607,South Carolina,1984,8
+608,South Carolina,1988,8
+609,South Carolina,1992,8
+610,South Carolina,1996,8
+611,South Carolina,2000,8
+612,South Carolina,2004,8
+613,South Carolina,2008,8
+614,South Carolina,2012,9
+615,South Dakota,1956,4
+616,South Dakota,1960,4
+617,South Dakota,1964,4
+618,South Dakota,1968,4
+619,South Dakota,1972,4
+620,South Dakota,1976,4
+621,South Dakota,1980,4
+622,South Dakota,1984,3
+623,South Dakota,1988,3
+624,South Dakota,1992,3
+625,South Dakota,1996,3
+626,South Dakota,2000,3
+627,South Dakota,2004,3
+628,South Dakota,2008,3
+629,South Dakota,2012,3
+630,Tennessee,1956,11
+631,Tennessee,1960,11
+632,Tennessee,1964,11
+633,Tennessee,1968,11
+634,Tennessee,1972,10
+635,Tennessee,1976,10
+636,Tennessee,1980,10
+637,Tennessee,1984,11
+638,Tennessee,1988,11
+639,Tennessee,1992,11
+640,Tennessee,1996,11
+641,Tennessee,2000,11
+642,Tennessee,2004,11
+643,Tennessee,2008,11
+644,Tennessee,2012,11
+645,Texas,1956,24
+646,Texas,1960,24
+647,Texas,1964,25
+648,Texas,1968,25
+649,Texas,1972,26
+650,Texas,1976,26
+651,Texas,1980,26
+652,Texas,1984,29
+653,Texas,1988,29
+654,Texas,1992,32
+655,Texas,1996,32
+656,Texas,2000,32
+657,Texas,2004,34
+658,Texas,2008,34
+659,Texas,2012,38
+660,Utah,1956,4
+661,Utah,1960,4
+662,Utah,1964,4
+663,Utah,1968,4
+664,Utah,1972,4
+665,Utah,1976,4
+666,Utah,1980,4
+667,Utah,1984,5
+668,Utah,1988,5
+669,Utah,1992,5
+670,Utah,1996,5
+671,Utah,2000,5
+672,Utah,2004,5
+673,Utah,2008,5
+674,Utah,2012,6
+675,Vermont,1956,3
+676,Vermont,1960,3
+677,Vermont,1964,3
+678,Vermont,1968,3
+679,Vermont,1972,3
+680,Vermont,1976,3
+681,Vermont,1980,3
+682,Vermont,1984,3
+683,Vermont,1988,3
+684,Vermont,1992,3
+685,Vermont,1996,3
+686,Vermont,2000,3
+687,Vermont,2004,3
+688,Vermont,2008,3
+689,Vermont,2012,3
+690,Virginia,1956,12
+691,Virginia,1960,12
+692,Virginia,1964,12
+693,Virginia,1968,12
+694,Virginia,1972,12
+695,Virginia,1976,12
+696,Virginia,1980,12
+697,Virginia,1984,12
+698,Virginia,1988,12
+699,Virginia,1992,13
+700,Virginia,1996,13
+701,Virginia,2000,13
+702,Virginia,2004,13
+703,Virginia,2008,13
+704,Virginia,2012,13
+705,Washington,1956,9
+706,Washington,1960,9
+707,Washington,1964,9
+708,Washington,1968,9
+709,Washington,1972,9
+710,Washington,1976,9
+711,Washington,1980,9
+712,Washington,1984,10
+713,Washington,1988,10
+714,Washington,1992,11
+715,Washington,1996,11
+716,Washington,2000,11
+717,Washington,2004,11
+718,Washington,2008,11
+719,Washington,2012,12
+720,West Virginia,1956,8
+721,West Virginia,1960,8
+722,West Virginia,1964,7
+723,West Virginia,1968,7
+724,West Virginia,1972,6
+725,West Virginia,1976,6
+726,West Virginia,1980,6
+727,West Virginia,1984,6
+728,West Virginia,1988,6
+729,West Virginia,1992,5
+730,West Virginia,1996,5
+731,West Virginia,2000,5
+732,West Virginia,2004,5
+733,West Virginia,2008,5
+734,West Virginia,2012,5
+735,Wisconsin,1956,12
+736,Wisconsin,1960,12
+737,Wisconsin,1964,12
+738,Wisconsin,1968,12
+739,Wisconsin,1972,11
+740,Wisconsin,1976,11
+741,Wisconsin,1980,11
+742,Wisconsin,1984,11
+743,Wisconsin,1988,11
+744,Wisconsin,1992,11
+745,Wisconsin,1996,11
+746,Wisconsin,2000,11
+747,Wisconsin,2004,10
+748,Wisconsin,2008,10
+749,Wisconsin,2012,10
+750,Wyoming,1956,3
+751,Wyoming,1960,3
+752,Wyoming,1964,3
+753,Wyoming,1968,3
+754,Wyoming,1972,3
+755,Wyoming,1976,3
+756,Wyoming,1980,3
+757,Wyoming,1984,3
+758,Wyoming,1988,3
+759,Wyoming,1992,3
+760,Wyoming,1996,3
+761,Wyoming,2000,3
+762,Wyoming,2004,3
+763,Wyoming,2008,3
+764,Wyoming,2012,3

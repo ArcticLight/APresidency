@@ -1,0 +1,53 @@
+plugins {
+    id 'java'
+    id 'scala'
+    id 'com.github.johnrengelman.shadow' version '1.2.3'
+}
+
+group 'me.arcticlight'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+allprojects {
+    repositories {
+        mavenCentral()
+        maven {
+            url 'https://jitpack.io'
+        }
+    }
+}
+
+task run(type:JavaExec) {
+    main = 'me.arcticlight.cs.databases.FPMain'
+    classpath = sourceSets.main.runtimeClasspath
+}
+
+jar {
+    manifest {
+        attributes (
+            "Main-Class": 'me.arcticlight.cs.databases.FPMain'
+        )
+    }
+}
+
+dependencies {
+    compile 'org.scala-lang:scala-library:2.11.7'
+    compile 'org.processing:core:3.0.1'
+    compile 'javazoom:jlayer:1.0.1'
+    compile 'com.typesafe.slick:slick_2.11:3.1.1'
+    compile 'org.jogamp.gluegen:gluegen-rt:2.3.2'
+    runtime 'org.xerial:sqlite-jdbc:3.15.1'
+    runtime 'org.jogamp.gluegen:gluegen-rt:2.3.2:natives-linux-amd64'
+    runtime 'org.jogamp.gluegen:gluegen-rt:2.3.2:natives-linux-i586'
+    runtime 'org.jogamp.gluegen:gluegen-rt:2.3.2:natives-macosx-universal'
+    runtime 'org.jogamp.gluegen:gluegen-rt:2.3.2:natives-windows-amd64'
+    runtime 'org.jogamp.gluegen:gluegen-rt:2.3.2:natives-windows-i586'
+    compile 'org.jogamp.jogl:jogl-all:2.3.2'
+    runtime 'org.jogamp.jogl:jogl-all:2.3.2:natives-linux-amd64'
+    runtime 'org.jogamp.jogl:jogl-all:2.3.2:natives-linux-i586'
+    runtime 'org.jogamp.jogl:jogl-all:2.3.2:natives-macosx-universal'
+    runtime 'org.jogamp.jogl:jogl-all:2.3.2:natives-windows-amd64'
+    runtime 'org.jogamp.jogl:jogl-all:2.3.2:natives-windows-i586'
+    compile 'com.github.ArcticLight:ScalaTween:v0.4b'
+}
